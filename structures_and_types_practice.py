@@ -1,8 +1,5 @@
 REQ_CURS = ("USD", "EUR", "RUB")
 
-
-some_test_val = 11111111
-
 currencys_descrition_info = [{"Cur_ID":1,
 "Cur_ParentID":1,
 "Cur_Code":"008",
